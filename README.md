@@ -1,2 +1,5 @@
-# RecommenderSystem
-Using Collaborative and Content-Based approachs and make a hybrid recommender system.
+# recommender-system
+Using Collaborative and Content-Based approaches and making a hybrid recommender system.
+
+## sample result
+![result](images/recommendation-result.png)
